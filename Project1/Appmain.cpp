@@ -188,7 +188,7 @@ int main(){
 	//cout << endl<< "Spend time:" << endl
 	//	<< (dur / CLOCKS_PER_SEC) << 's' << endl;
 #endif
-
+	cout << endl;
 	system("pause");
 	return 0;
 }
